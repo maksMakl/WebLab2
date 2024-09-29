@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-direction: row;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+}
