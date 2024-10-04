@@ -10,18 +10,15 @@ body, html {
 
 .container {
     height: 100%;
-    width: 80%;
 }
 
 .stripe {
     height: 100%;
-    width: 5%;
     background-color: burlywood;
 }
 
 .container-right {
     height: 100%;
-    width: 15%;
 }
 
 header {
